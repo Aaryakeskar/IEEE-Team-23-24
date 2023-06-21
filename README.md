@@ -65,4 +65,9 @@ Format :- [firstname-lastname](linkedin profile link)
 [Harsh Mahale](https://www.linkedin.com/in/harsh-mahale-858b2725b/ "Open Linkedin")  Management
 
 [Somrath Bisen](https://www.linkedin.com/in/somrath-bisen-5549441aa/ "Open LinkedIn"). PR
+
 [Shripad Parbhanikar](https://www.linkedin.com/in/shripad-parbhanikar-954a38259/ "Open LinkedIn") Social Media
+
+[Aarya Keskar](https://www.linkedin.com/in/aarya-keskar-689020260/ "Open Linkedin") Management
+
+
